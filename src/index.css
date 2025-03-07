@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body{
+    font-family: "Inter", sans-serif;
+}
+#checkbox{
+    accent-color: rgb(25, 25, 25);
+    width: 20px;
+    height: 20px;
+}
